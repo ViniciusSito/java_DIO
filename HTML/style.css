@@ -1,0 +1,27 @@
+body{
+    background-color: #c87777;
+
+}
+
+
+#title, .subtitle, .post-title {
+ color: #7d0202;   
+}
+
+.post-title {
+    font-size: 16px;
+    line-height: 1.5;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+.post {
+    background-color: #f2dede;
+    padding: 10px;
+    border: 3px solid #7d0202;
+    margin-bottom: 20px;
+}
+
+.post-content {
+    margin: 0;
+    margin-bottom: 10px;
+}
